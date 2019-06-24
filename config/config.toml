@@ -1,0 +1,17 @@
+[const]
+addr  = "0.0.0.0:8989"
+
+
+[application]
+env     = "dev"
+
+[redis]
+addr    = "127.0.0.1:6379"
+db      = 0
+auth    = ""
+timeout = 60
+
+[log]
+path = "./js_ticket.log"
+isDebug = "true"
+level = "debug"

@@ -1,0 +1,4 @@
+2019-06-24T17:01:46.098+0800	info	DefaultLogger init success
+2019-06-24T17:01:57.076+0800	error	{"errcode":40001,"errmsg":"invalid credential, access_token is invalid or not latest hint: [JMUvQa0920sz40!]"}
+2019-06-24T17:03:31.918+0800	info	DefaultLogger init success
+2019-06-24T17:10:33.273+0800	info	DefaultLogger init success
